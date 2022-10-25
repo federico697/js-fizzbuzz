@@ -1,0 +1,18 @@
+#numeri{
+    width: 70%;
+    margin: 0 auto;
+    gap: 1rem;
+}
+.numero{
+    background-color: blue;
+}
+.fizz{
+    background-color: red;
+}
+.buzz{
+    background-color: green;
+}
+.fizzbuzz{
+    background-color: yellow;
+    
+}
